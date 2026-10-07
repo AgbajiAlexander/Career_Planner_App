@@ -68,3 +68,17 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 Click the **Settings** icon (top right) inside the application:
 - You can immediately use the built-in **Smart Offline Socratic Engine** (no key required).
 - Or enter your **Google Gemini API Key** or **OpenAI API Key** to enable live LLM generation.
+
+---
+
+## 🌐 Deployment
+
+This application is ready and uploaded to [Vercel](https://vercel.com) for production deployment:
+- **Platform:** Vercel
+- **Framework Preset:** Next.js
+- **Build Command:** `next build`
+- **Output Directory:** `.next`
+- **Environment Variables (Optional):**
+  - `GEMINI_API_KEY`: Google Gemini API Key for live Socratic generation
+  - `OPENAI_API_KEY`: OpenAI API Key for GPT-4o Mini mentorship
+
