@@ -82,3 +82,4 @@ This application is ready and uploaded to [Vercel](https://vercel.com) for produ
   - `GEMINI_API_KEY`: Google Gemini API Key for live Socratic generation
   - `OPENAI_API_KEY`: OpenAI API Key for GPT-4o Mini mentorship
 
+
